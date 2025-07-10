@@ -1,5 +1,5 @@
 # Olaa! Eu sou a Maria Michelle
-No caminho para me tornar uma boa profissional, sou estudante de Ciência da Computação na UFG. Neste repositório, compartilho projetos acadêmicos, pessoais, mini jogos e aplicações web (em andamento ou concluídos).
+No caminho para me tornar uma boa profissional, sou estudante de Ciência da Computação na UFG. Aqui compartilho projetos acadêmicos, pessoais, mini jogos e aplicações web (em andamento ou concluídos).
 
 ![](https://github-readme-stats.vercel.app/api?username=mrmichelledev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mrmichelledev&theme=github_dark&hide_border=false)<br/>
