@@ -1,7 +1,7 @@
 # Olaa! Eu sou a Maria Michelle
-🎓 Estudante de Ciência da Computação na UFG
-💻 Aqui compartilho projetos acadêmicos, pessoais, mini jogos e aplicações web (em andamento ou concluídos).
-📚 Em constante aprendizado e evolução
+🎓 Estudante de Ciência da Computação na UFG<br>
+💻 Aqui compartilho projetos acadêmicos, pessoais, mini jogos e aplicações web (em andamento ou concluídos).<br>
+📚 Em constante aprendizado e evolução <br>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.shion.dev/api?username=mrmichelledev&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
