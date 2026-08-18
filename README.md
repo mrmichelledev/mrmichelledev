@@ -17,11 +17,11 @@
 
 ## Tech
 
-<div align="left">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,mysql,c,cpp,git,github,gamemakerstudio,vscode,figma&perline=5">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,mysql,c,cpp,git,github,gamemakerstudio,vscode,figma&perline=15" />
-
-</div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,mysql,c,cpp,git,github,gamemakerstudio,vscode,figma&perline=15">
+</picture>
 
 <br>
 
